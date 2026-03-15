@@ -1,4 +1,4 @@
-# OS and Embedded Assignments
+# Linux Kernel & OS Assignments
 
 Key topics: Linux kernel modules, device drivers, system calls, and process management.
 
