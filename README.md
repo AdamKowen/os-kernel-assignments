@@ -1,5 +1,7 @@
 # OS and Embedded Assignments
 
+Key topics: Linux kernel modules, device drivers, system calls, and process management.
+
 Academic assignments from an Operating Systems course (Semester B, 2025).
 
 The repository includes:
